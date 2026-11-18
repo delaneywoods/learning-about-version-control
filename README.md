@@ -2,4 +2,4 @@
 
 Author: Delaney Woods
 
-Is this a merge conflict? I think yes...
+Now to fix the merge I will add this line and delete the rest.
